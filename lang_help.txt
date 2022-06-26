@@ -1,0 +1,9 @@
+🐍 python 3.5.2   !code_py
+#️⃣ C#   !code_c#
+🐘 php 7.0.8    !code_php
+☕ java compiler 1.8.0_111    !code_java
+🟡 JavaScript-C24.2.0    !code_js
+🆕 Kotlin 1.1    !code_kotlin
+🐫 perl 5.22.1     !code_perl
+💎 ruby 2.3.1     !code_ruby
+🟢 nodejs v4.2.6      !code_nodejs
